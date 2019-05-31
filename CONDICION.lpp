@@ -2,7 +2,7 @@ entero edad
 
 INICIO
    
-   Escriba (" ¿Cual es su edad?")
+   Escriba (" Â¿Cual es su edad?")
    lea edad
    
    Si (edad>=18) entonces
@@ -11,5 +11,5 @@ INICIO
       escriba("usted es un menor")
       fin si
       
-      
+   aca le falta manin todavia no te da    
 FIN 
